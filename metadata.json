@@ -1,0 +1,7 @@
+{
+  "name": "PDF to Word Converter",
+  "description": "Convert scanned PDFs and images (including Hindi/English Math papers) into editable Word documents using Gemini AI.",
+  "requestFramePermissions": [
+    "clipboard-read"
+  ]
+}
